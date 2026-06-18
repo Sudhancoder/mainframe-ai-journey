@@ -14,4 +14,4 @@ Learning AI integration and modern dev tools from scratch.
 - Learning: Python, REST APIs, AI/ML, GitHub
 
 ## Projects
-(Coming soon...)
+(Coming soon...) seekram kathukren
